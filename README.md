@@ -10,8 +10,8 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 # INSTALL
 <pre><code>sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install -y bzip2 gzip coreutils screen curl unzip && wget -q https://raw.githubusercontent.com/bambangbicis/clwings/main/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
 
-## Silahkan Hubungi/ Supot Me
-### https://wa.me/6282261333421
+
+
 
 ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT 443 DETAILS ⏪
 ### Support Vmess Multipath <br> 
